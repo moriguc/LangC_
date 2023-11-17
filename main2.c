@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-    printf("%d",10);
+    printf("%d+%d=%d",1000,2000,3000);
     return 0;
 }
