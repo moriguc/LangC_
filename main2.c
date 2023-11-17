@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(void){
-    printf("%d+%d=%d",1000,2000,3000);
+    int price;
+    price=10;
+    printf("%d円見つけた",price);
     return 0;
 }
